@@ -1,0 +1,8 @@
+print(True)
+print(False)
+print(1.2 + 1)
+print("Aqui eu falo na minha língua! ")
+print("Você é " + 3 * "muito " + "legal! ")
+print([1,2,3])
+print({"nome": "pedro", "idade": 22})
+print(None)
